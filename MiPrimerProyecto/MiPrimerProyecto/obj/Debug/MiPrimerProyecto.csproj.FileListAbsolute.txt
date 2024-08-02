@@ -1,0 +1,14 @@
+C:\Users\desc2\Desktop\gitHub\PrograI-2024\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+C:\Users\desc2\Desktop\gitHub\PrograI-2024\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+C:\Users\desc2\Desktop\gitHub\PrograI-2024\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
+C:\Users\desc2\Desktop\gitHub\PrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\desc2\Desktop\gitHub\PrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\desc2\Desktop\gitHub\PrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+C:\Users\desc2\Desktop\gitHub\PrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+C:\Users\desc2\Desktop\gitHub\Progral_2024\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\desc2\Desktop\gitHub\Progral_2024\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\desc2\Desktop\gitHub\Progral_2024\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+C:\Users\desc2\Desktop\gitHub\Progral_2024\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+C:\Users\desc2\Desktop\gitHub\Progral_2024\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+C:\Users\desc2\Desktop\gitHub\Progral_2024\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+C:\Users\desc2\Desktop\gitHub\Progral_2024\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb
