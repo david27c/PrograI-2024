@@ -16,3 +16,7 @@ C:\Users\desc2\Desktop\gitHub\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\ob
 C:\Users\desc2\Desktop\gitHub\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
 C:\Users\desc2\Desktop\gitHub\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
 C:\Users\desc2\Desktop\gitHub\Nueva carpeta\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.AssemblyReference.cache
+C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
+C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
+C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
