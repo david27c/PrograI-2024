@@ -20,3 +20,6 @@ C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProye
 C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.csproj.CoreCompileInputs.cache
 C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.exe
 C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProyecto\obj\Debug\MiPrimerProyecto.pdb
+C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe.config
+C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.exe
+C:\Users\desc2\Desktop\gitHub\ParcialPrograI-2024\MiPrimerProyecto\MiPrimerProyecto\bin\Debug\MiPrimerProyecto.pdb

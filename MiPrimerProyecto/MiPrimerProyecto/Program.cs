@@ -1,84 +1,210 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace MiPrimerProyecto
+namespace Parcial_1
 {
     class Program
     {
-        static void Main(string[] args) {
-            //determinar si cada numero de la serie es primo 
-            static void Main(string[] args)
+        static void Main()
+        {
+            while (true)
             {
-                string[][] Conversores = new string[][]
-                { //selecione el tipo de conversor
-                new string[]{"Dolar", "Euro", "Quetzal", "Lempira", "Cordoba", "ColonSV", "ColonCR", "Yenes", "Rupias india", "Libras esterlinas"},
-                new string[]{"Libra", "Kilogramo", "Gramo", "Tonelada", "Miligramo", "Microgramo", "Tonelada Larga", "Tonelada Corta", "Stone", "Onza"},
-                new string[]{"Litro", "Galon estadunidence", "Cuarto estadunidence", "Pinta estadunidence", "Taza estadunidence", "Onza liquida estadunidence", "Cucharada USA", "Cucharadita USA", "Metro Cubico", "Mililitro"},
-                new string[]{"Metro", "Kilometro", "Centimetro", "Milimetro", "Micrometro", "Nanometro", "Milla", "Yarda", "Pie", "Pulgada"},
-                new string[]{"Megabyte", "Gigabyte", "Terabyte", "Petabyte", "Kilobyte", "Byte", "Petabit", "Terabit", "Gigabit", "Megabit"},
-                new string[]{"Minuto", "Segundo", "Hora", "Dia", "Semana", "Mes", "Año", "Decada", "Siglo", "Milisegundo"},
-                };
-                //selecione el tipo de conversor
-                double[][] monedas = {
-                new double[]{1, 0.92, 7.86, 24.62, 36.56, 8.75, 535.14, 145.52, 83.32, 0.79 },
-                new double[]{1, 0.453592, 453.592, 0.000453592, 453592, 453600000, 0.000446429, 0.0005, 0.0714286, 16},
-                new double[]{1, 0.264172, 1.05669, 2.11338, 4.16667, 33.814, 67.628, 202.884, 0.001, 1000},
-                new double[]{1, 0.001, 100, 1000, 1000000, 1000000000, 0.000621371, 1.09361, 3.28084, 39.3701},
-                new double[]{1, 0.001, 0.000001, 0.000000001, 1000, 1000000, 0.000000001, 0.000001, 0.008, 8},
-                new double[]{1, 60, 0.0166667, 0.000694444, 0.000099206, 0.000022831, 0.0000019026, 0.00000019026, 0.00000001903, 60000},
-            };
+                // Menú principal
+                Console.Clear();
+                Console.WriteLine("MENÚ PRINCIPAL");
+                Console.WriteLine("1. Calcular impuesto sobre actividades económicas");
+                Console.WriteLine("2. Conversión de área");
+                Console.WriteLine("3. Salir");
+                Console.Write("Ingrese su elección (1-3): ");
 
-                int[] serie = new int[] { 5, 9, 4, 6, 3, 2, 7, 11, 15, 17, 21 };
-                foreach (int num in serie)
+                int opcion;
+                if (!int.TryParse(Console.ReadLine(), out opcion) || opcion < 1 || opcion > 3)
                 {
-                    int i = 1;
-                    double n;
-                    n = 0;
-                    while (i <= num && n <= 2)
-                    {
-                        if (num % i == 0)
-                        {
-                            n++; //n=n+1
-                        }
-                        i++; //i=i+1
-
-                    }
-                    Console.WriteLine("El numero {0} {1}", num, n <= 2 ? "es primo" : " no es primo");
-                    Console.WriteLine("Seleccione el tipo de conversor:");
-                    for (int i = 0; i < Conversores.Length; i++)
-                    {
-                        Console.WriteLine($"{i + 1}. {string.Join(", ", Conversores[i])}");
-                    }
-                    Console.ReadLine();
-
-                    int tipoConversor = int.Parse(Console.ReadLine()) - 1;
-
-                    Console.WriteLine("Seleccione la unidad de origen:");
-                    for (int i = 0; i < Conversores[tipoConversor].Length; i++)
-                    {
-                        Console.WriteLine($"{i + 1}. {Conversores[tipoConversor][i]}");
-                    }
-
-                    int de = int.Parse(Console.ReadLine()) - 1;
-
-                    Console.WriteLine("Seleccione la unidad de destino:");
-                    for (int i = 0; i < Conversores[tipoConversor].Length; i++)
-                    {
-                        Console.WriteLine($"{i + 1}. {Conversores[tipoConversor][i]}");
-                    }
-
-                    int a = int.Parse(Console.ReadLine()) - 1;
-
-                    Console.WriteLine("Ingrese la cantidad a convertir:");
-                    double cantidad = double.Parse(Console.ReadLine());
-
-                    double respuesta = monedas[tipoConversor][a] / monedas[tipoConversor][de] * cantidad;
-                    Console.WriteLine("Respuesta: " + Math.Round(respuesta, 3));
-
-                    Console.ReadLine();
+                    Console.WriteLine("Opción no válida, por favor intente de nuevo.");
+                    Console.ReadKey();
+                    continue;
                 }
+
+                switch (opcion)
+                {
+                    case 1:
+                        CalcularImpuestoEconomico();
+                        break;
+                    case 2:
+                        ConversorDeArea();
+                        break;
+                    case 3:
+                        Console.WriteLine("Saliendo del programa...");
+                        return;
+                }
+            }
         }
+
+        static void CalcularImpuestoEconomico()
+        {
+            Console.Clear();
+            Console.WriteLine("CÁLCULO DEL IMPUESTO");
+
+            Console.Write("Ingrese el monto total de la actividad económica: ");
+            if (double.TryParse(Console.ReadLine(), out double montoActividad))
+            {
+                double impuesto = CalcularImpuesto(montoActividad);
+                Console.WriteLine($"\nEl impuesto a pagar por una actividad económica de {montoActividad:0.00} es: {impuesto:0.00}");
+            }
+            else
+            {
+                Console.WriteLine("Monto no válido. Por favor, intente nuevamente.");
+            }
+            Console.WriteLine("\nPresione cualquier tecla para continuar...");
+            Console.ReadKey();
+        }
+
+        static double CalcularImpuesto(double monto)
+        {
+            double impuesto = 0;
+
+            if (monto >= 0.01 && monto <= 500)
+            {
+                impuesto = 1.5;
+            }
+            else if (monto >= 500.01 && monto <= 1000)
+            {
+                impuesto = 1.5 + ((monto - 500) / 1000) * 3;
+            }
+            else if (monto >= 1000.01 && monto <= 2000)
+            {
+                impuesto = 3 + ((monto - 1000) / 1000) * 3;
+            }
+            else if (monto >= 2000.01 && monto <= 3000)
+            {
+                impuesto = 6 + ((monto - 2000) / 1000) * 3;
+            }
+            else if (monto >= 3000.01 && monto <= 6000)
+            {
+                impuesto = 9 + ((monto - 3000) / 1000) * 2;
+            }
+            else if (monto >= 8000.01 && monto <= 18000)
+            {
+                impuesto = 15 + ((monto - 8000) / 1000) * 2;
+            }
+            else if (monto >= 18000.01 && monto <= 30000)
+            {
+                impuesto = 39 + ((monto - 18000) / 1000) * 2;
+            }
+            else if (monto >= 30000.01 && monto <= 60000)
+            {
+                impuesto = 63 + ((monto - 30000) / 1000) * 1;
+            }
+            else if (monto >= 60000.01 && monto <= 100000)
+            {
+                impuesto = 93 + ((monto - 60000) / 1000) * 0.8;
+            }
+            else if (monto >= 100000.01 && monto <= 200000)
+            {
+                impuesto = 125 + ((monto - 100000) / 1000) * 0.7;
+            }
+            else if (monto >= 200000.01 && monto <= 300000)
+            {
+                impuesto = 195 + ((monto - 200000) / 1000) * 0.6;
+            }
+            else if (monto >= 300000.01 && monto <= 400000)
+            {
+                impuesto = 255 + ((monto - 300000) / 1000) * 0.45;
+            }
+            else if (monto >= 400000.01 && monto <= 500000)
+            {
+                impuesto = 300 + ((monto - 400000) / 1000) * 0.4;
+            }
+            else if (monto >= 500000.01 && monto <= 1000000)
+            {
+                impuesto = 340 + ((monto - 500000) / 1000) * 0.3;
+            }
+            else if (monto > 1000000.01)
+            {
+                impuesto = 490 + ((monto - 1000000) / 1000) * 0.18;
+            }
+
+            return impuesto;
+        }
+
+        static void ConversorDeArea()
+        {
+            Console.Clear();
+            Console.WriteLine("CONVERSOR DE ÁREA");
+
+            string[] unidades = { "Pie Cuadrado", "Vara Cuadrada", "Yarda Cuadrada", "Metro Cuadrado", "Tarea", "Manzana", "Hectárea" };
+            double[] factoresConversion = { 1.0, 0.698896, 0.111111, 0.092903, 0.0000209, 0.00000131, 0.0000092903 };
+
+            while (true)
+            {
+                Console.WriteLine("\nUnidades disponibles:");
+                for (int i = 0; i < unidades.Length; i++)
+                {
+                    Console.WriteLine($"{i + 1}. {unidades[i]}");
+                }
+
+                // Solicitar la unidad de origen y destino
+                int unidadOrigen = SolicitarUnidad("Seleccione la unidad de origen (1-7): ", unidades.Length);
+                int unidadDestino = SolicitarUnidad("Seleccione la unidad de destino (1-7): ", unidades.Length);
+
+                // Solicitar el valor de la superficie a convertir
+                double valor = SolicitarValor();
+
+                // Realizar la conversión
+                double resultado = ConvertirArea(valor, factoresConversion[unidadOrigen - 1], factoresConversion[unidadDestino - 1]);
+                Console.WriteLine($"\n{valor:0.00} {unidades[unidadOrigen - 1]} es igual a {resultado:0.00} {unidades[unidadDestino - 1]}.");
+
+                // Preguntar al usuario si desea realizar otra conversión
+                Console.Write("\n¿Desea realizar otra conversión? (s/n): ");
+                char respuesta = Console.ReadKey().KeyChar;
+                if (respuesta == 'n' || respuesta == 'N')
+                {
+                    break;
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine("\nPresione cualquier tecla para volver al menú principal...");
+            Console.ReadKey();
+        }
+
+        static double ConvertirArea(double valor, double factorOrigen, double factorDestino)
+        {
+            return valor * factorOrigen / factorDestino;
+        }
+
+        static int SolicitarUnidad(string mensaje, int maxUnidades)
+        {
+            int unidad;
+            while (true)
+            {
+                Console.Write(mensaje);
+                if (int.TryParse(Console.ReadLine(), out unidad) && unidad >= 1 && unidad <= maxUnidades)
+                {
+                    return unidad;
+                }
+                else
+                {
+                    Console.WriteLine($"Valor no válido. Por favor, ingrese un número entre 1 y {maxUnidades}.");
+                }
+            }
+        }
+
+        static double SolicitarValor()
+        {
+            double valor;
+            while (true)
+            {
+                Console.Write("Ingrese el valor del área a convertir: ");
+                if (double.TryParse(Console.ReadLine(), out valor) && valor > 0)
+                {
+                    return valor;
+                }
+                else
+                {
+                    Console.WriteLine("Valor no válido. Por favor, ingrese un número positivo.");
+                }
+            }
+        }
+    }
 }
+
