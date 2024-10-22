@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Segundo_Avanse</RootNamespace>
+    <AssemblyName>Segundo Avanse</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Historia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Historia.Designer.cs">
+      <DependentUpon>Historia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Importancia de un amigo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Importancia de un amigo.Designer.cs">
+      <DependentUpon>Importancia de un amigo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Mascotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Mascotas.Designer.cs">
+      <DependentUpon>Mascotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Nuestro Contacto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Nuestro Contacto.Designer.cs">
+      <DependentUpon>Nuestro Contacto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Perfil de Mascota.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Perfil de Mascota.Designer.cs">
+      <DependentUpon>Perfil de Mascota.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Refugio Relacionados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Refugio Relacionados.Designer.cs">
+      <DependentUpon>Refugio Relacionados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registro a llenar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registro a llenar.Designer.cs">
+      <DependentUpon>Registro a llenar.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Historia.resx">
+      <DependentUpon>Historia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Importancia de un amigo.resx">
+      <DependentUpon>Importancia de un amigo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Mascotas.resx">
+      <DependentUpon>Mascotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Nuestro Contacto.resx">
+      <DependentUpon>Nuestro Contacto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Perfil de Mascota.resx">
+      <DependentUpon>Perfil de Mascota.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Refugio Relacionados.resx">
+      <DependentUpon>Refugio Relacionados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registro a llenar.resx">
+      <DependentUpon>Registro a llenar.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gatocomuneuropeo-97.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\periquitos_5df5a243_1000x666.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\descarga.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Consejos para cuidar a un gatito pequeño.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Las manías más raras que suelen tener los gatos _ Nubika.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Perros Archives - Drag Pharma.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Los perros quieren hacerte reír %28y la ciencia tiene cada vez más claro para  qué%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cómo CUIDAR un CONEJO - Guía de Cuidados.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
