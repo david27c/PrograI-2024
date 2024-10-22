@@ -193,6 +193,7 @@
             this.Controls.Add(this.label3);
             this.Name = "Historia";
             this.Text = "Historia";
+            this.Load += new System.EventHandler(this.Historia_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

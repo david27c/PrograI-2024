@@ -1,0 +1,20 @@
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\bin\Debug\Segundo Avanse.exe.config
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\bin\Debug\Segundo Avanse.exe
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\bin\Debug\Segundo Avanse.pdb
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo Avanse.csproj.AssemblyReference.cache
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo_Avanse.Form1.resources
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo_Avanse.Historia.resources
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo_Avanse.Importancia_de_un_amigo.resources
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo_Avanse.LlenarSolicitud.resources
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo_Avanse.Mascotas.resources
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo_Avanse.Nuestro_Contacto.resources
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo_Avanse.Perfil_de_Mascota.resources
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo_Avanse.Properties.Resources.resources
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo_Avanse.Refugio_Relacionados.resources
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo_Avanse.Registro_a_llenar.resources
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo Avanse.csproj.GenerateResource.cache
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo Avanse.csproj.CoreCompileInputs.cache
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo Avanse.exe
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\obj\Debug\Segundo Avanse.pdb
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\bin\Debug\dbMascotas.mdf
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse\Segundo Avanse\bin\Debug\dbMascotas_log.ldf

@@ -645,6 +645,7 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "Mascotas";
             this.Text = "Mascotas";
+            this.Load += new System.EventHandler(this.Mascotas_Load);
             this.groupBox9.ResumeLayout(false);
             this.groupBox9.PerformLayout();
             this.groupBox8.ResumeLayout(false);
