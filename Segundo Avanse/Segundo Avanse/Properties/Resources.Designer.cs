@@ -63,6 +63,16 @@ namespace Segundo_Avanse.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap bichon_maltes {
+            get {
+                object obj = ResourceManager.GetObject("bichon-maltes", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Cómo_CUIDAR_un_CONEJO___Guía_de_Cuidados {
             get {
                 object obj = ResourceManager.GetObject("Cómo CUIDAR un CONEJO - Guía de Cuidados", resourceCulture);

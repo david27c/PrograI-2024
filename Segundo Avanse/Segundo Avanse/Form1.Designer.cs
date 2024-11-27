@@ -60,6 +60,7 @@
             this.label1.Size = new System.Drawing.Size(561, 37);
             this.label1.TabIndex = 13;
             this.label1.Text = "BIENVENIDOS ADOPTAR A UN AMIGO";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // groupBox1
             // 

@@ -163,11 +163,12 @@
             // 
             // pictureBox7
             // 
-            this.pictureBox7.Location = new System.Drawing.Point(19, 34);
+            this.pictureBox7.Image = global::Segundo_Avanse.Properties.Resources.bichon_maltes;
+            this.pictureBox7.Location = new System.Drawing.Point(13, 63);
             this.pictureBox7.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(308, 319);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox7.Size = new System.Drawing.Size(308, 200);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox7.TabIndex = 24;
             this.pictureBox7.TabStop = false;
             // 

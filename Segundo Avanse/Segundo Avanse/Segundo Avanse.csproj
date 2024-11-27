@@ -111,12 +111,6 @@
     <Compile Include="Refugio Relacionados.Designer.cs">
       <DependentUpon>Refugio Relacionados.cs</DependentUpon>
     </Compile>
-    <Compile Include="Registro a llenar.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Registro a llenar.Designer.cs">
-      <DependentUpon>Registro a llenar.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -150,9 +144,6 @@
     </Compile>
     <EmbeddedResource Include="Refugio Relacionados.resx">
       <DependentUpon>Refugio Relacionados.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Registro a llenar.resx">
-      <DependentUpon>Registro a llenar.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -199,6 +190,7 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <DependentUpon>dbMascotas.mdf</DependentUpon>
     </Content>
+    <None Include="Resources\bichon-maltes.jpg" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.8">

@@ -3,48 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\segundo avanse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse\\segundo avanse\\importancia de un amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\importancia de un amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse\\segundo avanse\\llenarsolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\llenarsolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse\\segundo avanse\\mascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\mascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\segundo avanse\\mascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\mascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\segundo avanse\\perfil de mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\perfil de mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\segundo avanse\\mascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\mascotas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\segundo avanse\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse\\segundo avanse\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\historia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\segundo avanse\\nuestro contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\nuestro contacto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\segundo avanse\\importancia de un amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\importancia de un amigo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\segundo avanse\\refugio relacionados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\refugio relacionados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\segundo avanse\\registro a llenar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\registro a llenar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\segundo avanse\\llenarsolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\llenarsolicitud.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse\\segundo avanse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E3A9DE77-522C-4DEA-9BAB-6FAE01C84FAA}|Segundo Avanse\\Segundo Avanse.csproj|solutionrelative:segundo avanse\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,33 +65,12 @@
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Mascotas.cs",
-              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Mascotas.cs",
-              "RelativeDocumentMoniker": "Segundo Avanse\\Mascotas.cs",
-              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Mascotas.cs",
-              "RelativeToolTip": "Segundo Avanse\\Mascotas.cs",
-              "ViewState": "AgIAAGIAAAAAAAAAAAAgwHUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:42:33.974Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LlenarSolicitud.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\LlenarSolicitud.cs",
-              "RelativeDocumentMoniker": "Segundo Avanse\\LlenarSolicitud.cs",
-              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\LlenarSolicitud.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Segundo Avanse\\LlenarSolicitud.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:30:00.965Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Importancia de un amigo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Importancia de un amigo.cs",
               "RelativeDocumentMoniker": "Segundo Avanse\\Importancia de un amigo.cs",
@@ -116,45 +83,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Form1.cs",
-              "RelativeDocumentMoniker": "Segundo Avanse\\Form1.cs",
-              "ToolTip": "Segundo Avanse/Form1.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "Segundo Avanse",
-              "OverriddenToolTip": "Segundo Avanse/Form1.cs",
-              "WhenOpened": "2024-10-21T01:57:16.932Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Historia.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Historia.cs",
-              "RelativeDocumentMoniker": "Segundo Avanse\\Historia.cs",
-              "ToolTip": "Segundo Avanse/Historia.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "OverriddenGroupName": "Segundo Avanse",
-              "OverriddenToolTip": "Segundo Avanse/Historia.cs",
-              "WhenOpened": "2024-10-21T21:36:54.352Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Perfil de Mascota.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Perfil de Mascota.cs",
               "RelativeDocumentMoniker": "Segundo Avanse\\Perfil de Mascota.cs",
-              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Perfil de Mascota.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Segundo Avanse\\Perfil de Mascota.cs [Dise\u00F1o]",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Perfil de Mascota.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "Segundo Avanse\\Perfil de Mascota.cs [Dise\u00F1o]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T02:22:26.18Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LlenarSolicitud.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\LlenarSolicitud.cs",
+              "RelativeDocumentMoniker": "Segundo Avanse\\LlenarSolicitud.cs",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\LlenarSolicitud.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Segundo Avanse\\LlenarSolicitud.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T20:30:00.965Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "Refugio Relacionados.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Refugio Relacionados.cs",
+              "RelativeDocumentMoniker": "Segundo Avanse\\Refugio Relacionados.cs",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Refugio Relacionados.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Segundo Avanse\\Refugio Relacionados.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:23:51.393Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Mascotas.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Mascotas.cs",
               "RelativeDocumentMoniker": "Segundo Avanse\\Mascotas.cs",
@@ -167,20 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Historia.cs",
-              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Historia.cs",
-              "RelativeDocumentMoniker": "Segundo Avanse\\Historia.cs",
-              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Historia.cs",
-              "RelativeToolTip": "Segundo Avanse\\Historia.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAowJQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T20:46:56.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Nuestro Contacto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Nuestro Contacto.cs",
               "RelativeDocumentMoniker": "Segundo Avanse\\Nuestro Contacto.cs",
@@ -192,26 +144,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Refugio Relacionados.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Refugio Relacionados.cs",
-              "RelativeDocumentMoniker": "Segundo Avanse\\Refugio Relacionados.cs",
-              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Refugio Relacionados.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Segundo Avanse\\Refugio Relacionados.cs [Dise\u00F1o]",
+              "DocumentIndex": 2,
+              "Title": "Historia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Historia.cs",
+              "RelativeDocumentMoniker": "Segundo Avanse\\Historia.cs",
+              "ToolTip": "Segundo Avanse/Historia.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T02:23:51.393Z",
+              "OverriddenGroupName": "Segundo Avanse",
+              "OverriddenToolTip": "Segundo Avanse/Historia.cs",
+              "WhenOpened": "2024-10-21T21:36:54.352Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Registro a llenar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Registro a llenar.cs",
-              "RelativeDocumentMoniker": "Segundo Avanse\\Registro a llenar.cs",
-              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Registro a llenar.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Segundo Avanse\\Registro a llenar.cs [Dise\u00F1o]",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse\\Segundo Avanse\\Form1.cs",
+              "RelativeDocumentMoniker": "Segundo Avanse\\Form1.cs",
+              "ToolTip": "Segundo Avanse/Form1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T02:21:15.699Z",
+              "OverriddenGroupName": "Segundo Avanse",
+              "OverriddenToolTip": "Segundo Avanse/Form1.cs",
+              "WhenOpened": "2024-10-21T01:57:16.932Z",
               "EditorCaption": " [Dise\u00F1o]"
             }
           ]

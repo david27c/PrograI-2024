@@ -1,0 +1,9 @@
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse 2\Segundo Avanse 2\obj\Debug\net8.0\Segundo Avanse 2.csproj.AssemblyReference.cache
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse 2\Segundo Avanse 2\obj\Debug\net8.0\Segundo Avanse 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse 2\Segundo Avanse 2\obj\Debug\net8.0\Segundo Avanse 2.AssemblyInfoInputs.cache
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse 2\Segundo Avanse 2\obj\Debug\net8.0\Segundo Avanse 2.AssemblyInfo.cs
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse 2\Segundo Avanse 2\obj\Debug\net8.0\Segundo Avanse 2.csproj.CoreCompileInputs.cache
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse 2\Segundo Avanse 2\obj\Debug\net8.0\Segundo Avanse 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse 2\Segundo Avanse 2\obj\Debug\net8.0\Segundo Avanse 2.RazorAssemblyInfo.cache
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse 2\Segundo Avanse 2\obj\Debug\net8.0\Segundo Avanse 2.RazorAssemblyInfo.cs
+C:\Users\desc2\Desktop\gitHub\Parcial\Segundo Avanse 2\Segundo Avanse 2\obj\Debug\net8.0\Segundo Avanse 2.sourcelink.json

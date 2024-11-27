@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse 2\\segundo avanse 2\\pages\\mascotas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|solutionrelative:segundo avanse 2\\pages\\mascotas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse 2\\segundo avanse 2\\pagina_web_mascotas\\refugio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|solutionrelative:segundo avanse 2\\pagina_web_mascotas\\refugio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse 2\\segundo avanse 2\\pagina_web_mascotas\\solicitudadopcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|solutionrelative:segundo avanse 2\\pagina_web_mascotas\\solicitudadopcion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse 2\\segundo avanse 2\\pagina_web_mascotas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|solutionrelative:segundo avanse 2\\pagina_web_mascotas\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse 2\\segundo avanse 2\\pagina_web_mascotas\\controlador\\mascotascontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|solutionrelative:segundo avanse 2\\pagina_web_mascotas\\controlador\\mascotascontrolador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse 2\\segundo avanse 2\\pages\\mascotas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|solutionrelative:segundo avanse 2\\pages\\mascotas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse 2\\segundo avanse 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|solutionrelative:segundo avanse 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse 2\\segundo avanse 2\\pagina_web_mascotas\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|solutionrelative:segundo avanse 2\\pagina_web_mascotas\\mascota.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse 2\\segundo avanse 2\\segundo avanse 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|solutionrelative:segundo avanse 2\\segundo avanse 2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|c:\\users\\desc2\\desktop\\github\\parcial\\segundo avanse 2\\segundo avanse 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{019F014A-AD2F-4A37-8C59-A15F93D52C1F}|Segundo Avanse 2\\Segundo Avanse 2.csproj|solutionrelative:segundo avanse 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Program.cs",
+              "RelativeDocumentMoniker": "Segundo Avanse 2\\Program.cs",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Program.cs",
+              "RelativeToolTip": "Segundo Avanse 2\\Program.cs",
+              "ViewState": "AgIAAAMAAACAiMWrIXwfwA4AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:03:15.098Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pages\\mascotas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Segundo Avanse 2\\Pages\\mascotas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pages\\mascotas\\Index.cshtml",
+              "RelativeToolTip": "Segundo Avanse 2\\Pages\\mascotas\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T15:16:07.515Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pages\\mascotas\\create.cshtml",
+              "RelativeDocumentMoniker": "Segundo Avanse 2\\Pages\\mascotas\\create.cshtml",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pages\\mascotas\\create.cshtml",
+              "RelativeToolTip": "Segundo Avanse 2\\Pages\\mascotas\\create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T15:32:46.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MascotasControlador.cs",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pagina_web_mascotas\\Controlador\\MascotasControlador.cs",
+              "RelativeDocumentMoniker": "Segundo Avanse 2\\Pagina_web_mascotas\\Controlador\\MascotasControlador.cs",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pagina_web_mascotas\\Controlador\\MascotasControlador.cs",
+              "RelativeToolTip": "Segundo Avanse 2\\Pagina_web_mascotas\\Controlador\\MascotasControlador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T14:20:43.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pagina_web_mascotas\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Segundo Avanse 2\\Pagina_web_mascotas\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pagina_web_mascotas\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Segundo Avanse 2\\Pagina_web_mascotas\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:59:38.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Solicitudadopcion.cs",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pagina_web_mascotas\\Solicitudadopcion.cs",
+              "RelativeDocumentMoniker": "Segundo Avanse 2\\Pagina_web_mascotas\\Solicitudadopcion.cs",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pagina_web_mascotas\\Solicitudadopcion.cs",
+              "RelativeToolTip": "Segundo Avanse 2\\Pagina_web_mascotas\\Solicitudadopcion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:57:41.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "refugio.cs",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pagina_web_mascotas\\refugio.cs",
+              "RelativeDocumentMoniker": "Segundo Avanse 2\\Pagina_web_mascotas\\refugio.cs",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pagina_web_mascotas\\refugio.cs",
+              "RelativeToolTip": "Segundo Avanse 2\\Pagina_web_mascotas\\refugio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:56:51.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\appsettings.json",
+              "RelativeDocumentMoniker": "Segundo Avanse 2\\appsettings.json",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\appsettings.json",
+              "RelativeToolTip": "Segundo Avanse 2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-23T13:50:50.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mascota.cs",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pagina_web_mascotas\\mascota.cs",
+              "RelativeDocumentMoniker": "Segundo Avanse 2\\Pagina_web_mascotas\\mascota.cs",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Pagina_web_mascotas\\mascota.cs",
+              "RelativeToolTip": "Segundo Avanse 2\\Pagina_web_mascotas\\mascota.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T13:40:13.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Segundo Avanse 2",
+              "DocumentMoniker": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Segundo Avanse 2.csproj",
+              "RelativeDocumentMoniker": "Segundo Avanse 2\\Segundo Avanse 2.csproj",
+              "ToolTip": "C:\\Users\\desc2\\Desktop\\gitHub\\Parcial\\Segundo Avanse 2\\Segundo Avanse 2\\Segundo Avanse 2.csproj",
+              "RelativeToolTip": "Segundo Avanse 2\\Segundo Avanse 2.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T13:36:46.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
